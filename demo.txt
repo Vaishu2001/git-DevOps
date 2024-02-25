@@ -5,6 +5,9 @@ Hello
 fgs feature
 
 fgs remote changes
+<<<<<<< HEAD
 
  try stash local
 stash demo
+
+stash demo -122
