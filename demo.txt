@@ -5,4 +5,6 @@ Hello
 fgs feature
 
 fgs remote changes
+
  try stash local
+stash demo
