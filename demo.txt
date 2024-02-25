@@ -10,4 +10,7 @@ fgs remote changes
  try stash local
 stash demo
 
+
 stash demo -122
+
+commit -stash
