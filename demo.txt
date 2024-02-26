@@ -1,4 +1,4 @@
-Hello World
+Hello World -feature change
 Changes from remote
 Hello 
 
@@ -10,7 +10,4 @@ fgs remote changes
  try stash local
 stash demo
 
-
 stash demo -122
-
-commit -stash
